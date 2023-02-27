@@ -1,0 +1,15 @@
+{
+  "name": "open-source-pizzaria",
+  "version": "1.0.0",
+  "description": "Pizzaria com tudo que um programador precisa e Open Source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/williancordeiro/open-source-pizzaria)"
+  },
+  "author": "Willian Cordeiro",
+  "license": "GPL-3.0"
+}
